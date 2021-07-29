@@ -1,0 +1,39 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.container{
+  /* margin: 50px; */
+  padding: 50px;
+  text-align: center;
+}
+.bg-lightblue{
+  background-color: lightblue;
+}
+.bg-whitesmoke{
+  background-color: rgba(224, 159, 159, 0.315);
+}
+.img{
+  width: 200px;
+  height: auto;
+  border-radius: 50%;
+}
+.btn{
+  text-decoration: none;
+  color: white;
+  background-color: blue;
+  padding: 7px;
+  margin: 0px 3px;
+}
+.btn:hover{
+  background-color: blueviolet;
+}
+td,
+th{
+  border: 1px solid black;
+}
+
+.footer{
+  text-align: center;
+  padding: 10px;
+}
